@@ -1,0 +1,74 @@
+body
+{
+    background: #e8c5c5;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+nav ul
+{
+    margin-left: 250px;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+    text-align: center;
+    justify-content: center;
+    
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 30px;
+    border: 1px solid #000;
+    background-color: #f00;
+    
+}
+nav ul li a:hover{
+    background-color: aqua;
+    color: #000;
+}
+header
+{
+    margin-top: 30px;
+}
+h1
+{
+    color: red;
+    font-family: fantasy;
+}
+h2
+{
+    font-family: fantasy;
+}
+p
+{
+    font-size: 18px;
+}
+img 
+{
+    margin-bottom: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+#contatos .img-contato
+{
+    display: flex;
+}
+.img-padrao
+{
+    margin-bottom: 20px;
+}
+#contatos .img-contato img
+{
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}
+#contatos .img-contato p
+{
+    margin-top: 0;
+}
